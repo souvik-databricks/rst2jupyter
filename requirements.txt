@@ -1,0 +1,12 @@
+attrs==21.4.0
+docutils==0.18.1
+docutils-stubs==0.0.22
+fastjsonschema==2.15.3
+importlib-resources==5.6.0
+jsonschema==4.4.0
+jupyter-core==4.9.2
+nbformat==5.3.0
+Pygments==2.11.2
+pyrsistent==0.18.1
+traitlets==5.1.1
+zipp==3.8.0
